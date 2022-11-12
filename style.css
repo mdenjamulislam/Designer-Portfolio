@@ -1,0 +1,92 @@
+/*------------------------------------------------------------------------|
+	Theme name: Designer Portfolio Template  
+	Author: Md.Enjamul Islam
+	Author URI: https://enjamul.me
+	Version: 1.0
+	Description: 
+
+||--------------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------------|
+	[ Table of column ]
+
+	1.0. Google font
+	2.0. Typography
+		2.1. CSS Variables
+		2.2. Common CSS 
+	3.0. 
+
+
+||--------------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------------|
+	1.0. Google font
+||------------------------------------------------------------------------*/
+		/* Here is google font link */
+
+/*------------------------------------------------------------------------|
+	2.0. Typography / Common CSS
+||------------------------------------------------------------------------*/
+/* CSS Variables */
+:root {
+    /* Clour variables */
+    --primary: #45c;
+    --secondary: #676767;
+    --sky: #23f;
+    --bgPrimary: ;
+    --bgDark: ;
+
+    /* font variables */
+    --primaryFont: cursive;
+    --textFont: sans-sarif;
+    --headingFont: arial;
+    --titleFont: ;
+    --textSize: 18px;
+    --heading1: 48px;
+    --heading2: 38px;
+    --heading3: 28px;
+    --heading4: 22px;
+    --heading5: 18px;
+    --heading6: 14px;
+    --font4w: 400;
+    --font5w: 500;
+    --font6w: 600;
+    --font7w: 700;
+    --font9w: 900;
+    /* padding variables */
+    --padding: 50px;
+    /* margin variables */
+    --margin: 50px;
+
+}
+
+/*--- Common CSS ---*/
+.sectionPadding {
+    padding-top: var(--padding);
+    padding-bottom: var(--padding);
+}
+.paddingTop {
+    padding-top: var(--padding);
+}
+.paddingBottom {
+    padding-bottom: var(--padding);
+}
+.sectionMargin {
+    margin-top: var(--margin);
+    margin-bottom: var(--margin);
+}
+.marginTop {
+    margin-top: var(--margin);
+}
+.marginBottom{
+    margin-bottom: var(--margin);
+}
+
+/*------------------------------------------------------------------------|
+    
+||------------------------------------------------------------------------*/
+
+
+
+ 
+
