@@ -615,7 +615,7 @@ Version: 1.0
 	width: 100%;
 	border-radius: 5px;
 	position: relative;
-	transition:all 0.5s;
+	transition: all 2s ease-in-out;
 	overflow: hidden;
 }
 .pricing-content sup {
@@ -636,11 +636,11 @@ Version: 1.0
 	color: #fff;
 	border-radius: 5px;
 	font-size: 18px;
-	transition: all 0.5s;
 	position: relative;
 	display: block;
     margin: auto;
 	margin-top: 25px;
+	transition: all .2s ease-in-out;
 }
 .pricing-content button:hover {
 	background: #60C926;
